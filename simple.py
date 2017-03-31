@@ -1,0 +1,1 @@
+print("This is a very simple \"program\", isn't it?")
